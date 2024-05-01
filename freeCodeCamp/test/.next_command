@@ -287,3 +287,4 @@ find client/assets/fonts/
 mkdir client/assets/fonts/lato-bold.ttf
 rmdir client/assets/fonts/lato-bold.ttf/
 touch client/assets/fonts/lato-bold.ttf
+touch client/assets/fonts/lato-light.ttf
