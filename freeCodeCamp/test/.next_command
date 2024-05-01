@@ -268,3 +268,4 @@ mv images/footer.jpeg client/assets/images/
 find
 clear
 rmdir images/
+rm images/background.jpg
