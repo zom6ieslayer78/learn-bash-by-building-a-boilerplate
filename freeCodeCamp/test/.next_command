@@ -249,3 +249,15 @@ mv header.png ..
 ls --color=auto
 cd ..
 ls --color=auto
+find
+mv header.png client/assets/images/
+mv header.png client/assets/images/header.png
+ls --color=auto
+cd client/assets/images/
+ls --color=auto
+cd header.png ../../..
+mv header.png ../../..
+cd ../../..
+ls --color=auto
+find -name header.png
+find -name images
