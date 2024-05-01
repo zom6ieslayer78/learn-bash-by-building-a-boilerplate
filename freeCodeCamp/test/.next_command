@@ -101,3 +101,5 @@ __vsc_prompt_cmd_original
 pwd
 ls --color=auto
 more index.js
+..
+cd ..
