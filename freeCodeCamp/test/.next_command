@@ -165,3 +165,4 @@ clear
 ls --color=auto
 mv roboto.woff fonts/roboto.woff
 find
+mv lato.ttf fonts/lato.ttf
