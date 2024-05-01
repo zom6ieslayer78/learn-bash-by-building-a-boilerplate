@@ -119,3 +119,4 @@ touch index.js
 touch .gitignore
 __vsc_prompt_cmd_original
 ls --color=auto
+ls --color=auto --help
