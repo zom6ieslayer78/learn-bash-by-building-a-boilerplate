@@ -188,3 +188,5 @@ find
 cd client/
 mkdir assets
 cd assets
+__vsc_prompt_cmd_original
+mkdir images
