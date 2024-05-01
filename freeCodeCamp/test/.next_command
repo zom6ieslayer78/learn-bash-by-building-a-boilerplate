@@ -178,3 +178,4 @@ find
 clear
 find
 find client/
+find --help
