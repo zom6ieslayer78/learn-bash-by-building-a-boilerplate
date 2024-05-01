@@ -292,3 +292,6 @@ find
 rm --help
 rm -r fonts/
 ls --color=auto
+clear
+ls --color=auto
+touch package.json
