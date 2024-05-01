@@ -245,3 +245,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd ../../..
 cd images/
 ls --color=auto
+mv header.png ..
