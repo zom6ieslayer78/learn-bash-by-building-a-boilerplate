@@ -141,3 +141,4 @@ cp background.jpg images/background.jpg
 cd images
 ls --color=auto
 cd ..
+ls --color=auto
